@@ -1,0 +1,20 @@
+{
+  "name": "readability",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsdom": "^17.0.0",
+    "marked": "^3.0.2",
+    "prettier": "^2.3.2",
+    "pronouncing": "github:aparrish/pronouncingjs"
+  },
+  "bin": {
+    "readability": "./index.mjs"
+  }
+}
