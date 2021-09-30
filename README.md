@@ -26,6 +26,10 @@ Working towards better support (probably making a separate library to parse).
 - markdown with front-matter
 - html (go templates)
 
+## Setup
+
+`npm install` or `yarn install` to install the NPM dependancies.
+
 ## Usage
 
 `./index.mjs /home/rockerboo/code/ecogarden/site/content/features/_index.md`
