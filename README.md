@@ -23,6 +23,8 @@ Working towards better support (probably making a separate library to parse).
 
 ## Supports
 
+Primarily tested on a hugo project.
+
 - markdown with front-matter
 - html (go templates)
 
